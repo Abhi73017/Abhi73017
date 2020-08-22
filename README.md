@@ -2,7 +2,7 @@
 
 # Hello, folks! <img src="https://github.com/Abhi73017/Abhi73017/blob/master/wave.gif" width="30px">
 
-My name is Abhishek Kumar and I'm a professional Software (Android and Windows) Developer. I'm an engineering student and a researcher. You can find me on [![LinkedIn][3.2]][3].
+My name is Abhishek Kumar and I'm a professional Software (Android and Windows) Developer. I'm an engineering student and a researcher. You can find me on [![LinkedIn][1.1]][1].
 
 ## &#x270d; Publications
 
@@ -30,11 +30,10 @@ Apart from coding, I am also active in research field. You can access my first p
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Abhi73017&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Abhishek's GitHub Stats" />
 </a>
 
-[3.2]: https://github.com/Abhi73017/Abhi73017/blob/master/linkedin-3-16.png
+[1.1]: https://github.com/Abhi73017/Abhi73017/blob/master/linkedin-3-16.png
 
 
 <!-- links to your social media accounts -->
 
-[2]: https://github.com/Abhi73017
-[3]: https://www.linkedin.com/in/abhishek-kumar-73017
+[1]: https://www.linkedin.com/in/abhishek-kumar-73017
 
